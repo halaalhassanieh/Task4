@@ -1,0 +1,23 @@
+.appointment{
+    background-color: rgba(127, 255, 212, 0.137);
+}
+@media screen and (max-width:992px) {
+   .flex{
+    padding: 5px;
+    margin: 10px ;
+   }
+   .flex form{
+    margin: 5px !important;
+    padding: 0 !important;
+   }
+    .block{
+        display: block !important;
+        margin-inline: 5px;
+     
+    }
+    .input{
+        margin: 0;
+        margin-top: 10px;
+        
+    }
+}

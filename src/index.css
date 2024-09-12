@@ -1,0 +1,10 @@
+:root{
+    --main-background-color:  #3fbbc0 ;
+}
+.thirdSection{
+    background-color: var(--main-background-color);
+}
+*{
+    box-sizing: border-box;
+    
+}
